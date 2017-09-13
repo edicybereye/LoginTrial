@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "418319558702",
+    "project_id": "loginapp-f1695"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:418319558702:android:a6ada87b499ec0a5",
+        "android_client_info": {
+          "package_name": "com.cybereye_community.logintrial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "418319558702-uvsl3cv8tmnf2dkb43lb9j34e0smk7la.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "418319558702-89hn51v5bokvfmgviu1vmnpb6tcf7lmg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cybereye_community.logintrial",
+            "certificate_hash": "1190efa0a1ada14d2317487718d0f82993376451"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDMBriiLx5qhCTJ9QsfwjJ-SYlwqc921ug"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
